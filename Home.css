@@ -1,0 +1,139 @@
+ .u-section-1 {
+  background-image: url("images/andy-kelly-0e_vhmvql9g-unsplash_0.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 756px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 570px;
+  min-height: 317px;
+  height: auto;
+  margin: 159px 138px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 29px 8px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  text-align: justify;
+  margin: 1px 88px 0 22px;
+}
+
+.u-section-1 .u-text-2 {
+  text-align: justify;
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 19px 22px 0;
+}
+
+.u-section-1 .u-group-2 {
+  min-height: 77px;
+  width: 554px;
+  height: auto;
+  margin: 19px auto -1px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 49px;
+  width: 514px;
+  margin: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 623px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 477px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 73px;
+    margin-left: 7px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 524px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 504px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 324px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 304px;
+  }
+}
